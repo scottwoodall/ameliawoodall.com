@@ -1,5 +1,11 @@
-## Welcome to GitHub Pages
+## My Dog Howie
+### Some Facts About Howie
+One day my mom looked up pictures of dogs and saw a dog and she had to have him.
 
-You can use the [editor on GitHub](https://github.com/scottwoodall/ameliawoodall.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We named him Howie after a cab driver on vacation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He has a crooked leg and he used to have a sister named Sable.
+
+Howie is part golden retriever and part basset hound.
+
+Thats it for today thank you for reading about my dog, bye!
